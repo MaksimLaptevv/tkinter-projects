@@ -1,2 +1,1 @@
-# tkinter-projects
-Python GUI Applications
+# Проекты с графическим интерфесом, при помощи библиотеки tkinter.
