@@ -28,7 +28,7 @@ root.resizable(False,False)
 
 '''создание виджетов'''
 listbox1=tk.Listbox(root)
-listbox1.insert(tk.END,'купить молоко','купить кофе','купить чай','выпить чай','выпить кофе','покормить питомца',1,2)
+listbox1.insert(tk.END,'купить молоко','купить кофе','купить чай','выпить чай','выпить кофе','покормить питомца')
 listbox2=tk.Listbox(root)
 but1=tk.Button(root,text='в список выполненных дел',command=l1tol2)
 but2=tk.Button(root,text='в список заданных дел',command=l2tol1)
